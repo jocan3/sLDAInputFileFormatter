@@ -1,0 +1,7 @@
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\bin\Debug\sLDAInputFileFormatter.exe.config
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\bin\Debug\sLDAInputFileFormatter.exe
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\bin\Debug\sLDAInputFileFormatter.pdb
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\obj\Debug\sLDAInputFileFormatter.exe
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\obj\Debug\sLDAInputFileFormatter.pdb
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\bin\Debug\MySql.Data.dll
+D:\GIT\sLDAInputFileFormatter\sLDAInputFileFormatter\obj\Debug\sLDAInputFileFormatter.csprojResolveAssemblyReference.cache
